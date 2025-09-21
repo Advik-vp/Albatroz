@@ -44,12 +44,10 @@ Say goodbye to delayed payments, invoice tampering, and complicated bookkeeping.
 ├── docs/                # Documentation & API references
 ├── tests/               # Unit & integration tests
 └── README.md
+
 Future Enhancements
 
 📱 Mobile App (React Native)
-
 🤖 AI-based Invoice Auto-Fill
-
 🌍 Multi-language & Multi-Currency Support
-
 🏦 Bank Reconciliation & GST/Tax Filing Integration
