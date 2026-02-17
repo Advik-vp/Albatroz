@@ -8,7 +8,9 @@ _A secure, smart, and transparent invoicing solution for small businesses and fr
 ---
 
 
-## 🚀 Overview  
+
+## 🚀 Overview
+
 This project is a **next-generation invoicing and payment platform** designed to address the key challenges faced by small businesses and freelancers.  
 It provides **secure transactions**, **real-time fraud detection**, and **transparent record-keeping** — all in one place.  
 
